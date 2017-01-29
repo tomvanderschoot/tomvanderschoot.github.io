@@ -1,0 +1,73 @@
+
+
+nav.main_menu > ul > li > a {text-transform:none}
+#menu-main_menu_right li a{ padding-left:80px; padding-right: auto;}
+#menu-main_menu_left li a{ padding-right:80px; padding-left: auto;}
+
+
+.touch .popup_menu_holder_outer{
+display: none;
+}
+
+.touch .popup_menu_opened .popup_menu_holder_outer{
+display: block;
+}
+
+.drop_down .second .inner .widget {
+padding-bottom: 13px;
+}
+
+.drop_down .second .inner .widget a{
+padding: 0px !important;
+}
+
+.google_map {
+margin: 0;
+}
+
+.carousel-inner .slider_content .text .qbutton {
+font-size: 14px;
+background: none;
+border: 1px solid #bcb8b4;
+padding: 10px 39px;
+margin: 16px 0 0 0;
+color: #bbcdd9;
+}
+
+.carousel-inner .slider_content .text .qbutton:hover {
+background: #ffffff;
+color: #8b8b8b;
+}
+
+.carousel-control .prev_nav, .carousel-control .next_nav {
+ border: none;
+}
+
+.carousel-control i {
+font-size: 42px;
+}
+
+/* 62 */
+
+.testimonial_text_inner p {
+font-style: italic;
+}
+
+.testimonial_author {
+font-family:  Satisfy;
+font-style: normal !important;
+line-height: 64px !important ;
+}
+
+header:not(.sticky) nav.main_menu ul li{
+border-bottom: 1px solid rgba(250, 250, 250, 0.1);
+}
+
+header:not(.sticky) nav.main_menu > ul > li > a{
+height: 165px;
+padding-right: 45px;
+}
+
+div.wpcf7 img.ajax-loader {
+display: none;
+}

@@ -150,7 +150,7 @@ function showContactMap() {
 		codeAddress("");
 		codeAddress("");
 		codeAddress("");
-		codeAddress("Psychologenpraktijk, Prinsesstraat 35, 2000 Antwerpen");
+		codeAddress("Prinsesstraat 35, 2000 Antwerpen");
 	}
 }
 

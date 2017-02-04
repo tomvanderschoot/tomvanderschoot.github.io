@@ -150,13 +150,13 @@ function showContactMap() {
 		codeAddress("");
 		codeAddress("");
 		codeAddress("");
-		codeAddress("Kinesist, Frankrijklei 104, 2000 Antwerpen");
+		codeAddress("Psychologenpraktijk, Prinsesstraat 35, 2000 Antwerpen");
 	}
 }
 
 var no_ajax_pages = [];
-var qode_root = 'http://demo.fluxwebdesign.be/demo5/';
-var theme_root = 'http://demo.fluxwebdesign.be/demo5/wp-content/themes/flux/';
+var qode_root = 'http://tomvanderschoot.be';
+var theme_root = 'http://tomvanderschoot.be/css';
 var header_style_admin = "";
 if(typeof no_ajax_obj !== 'undefined') {
 	no_ajax_pages = no_ajax_obj.no_ajax_pages;
